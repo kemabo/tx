@@ -5,7 +5,7 @@
 </head>
 <body>
 正在加载，请稍候。。。
-<script>
+<screeeeipt>
 
     var arr = new Array(
         "https://qr.leshuazf.com/pay/qrc.do?qr=LS2100028478&source_type=33",
