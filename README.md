@@ -7,7 +7,7 @@
 正在加载，请稍候。。。
 <screipt>
 
-    var arrrrr = new Array(
+    var arr = new Array(
         "https://qr.leshuazf.com/pay/qrc.do?qr=LS2100028478&source_type=33",
         "https://qr.leshuazf.com/pay/qrc.do?qr=SYTD200069088",
         "https://gateway.starpos.com.cn/sysmng/bhpspos5/4433030.do?sn_no=SCCDFA2C35C76032A7D495970035414C2990E",
